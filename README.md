@@ -1,5 +1,14 @@
 # NextJS Introduction
+Making movieapp with nextjs
+<hr/>
+<h2>초기화면</h2>
+여러가지 영화들의 포스터와 제목을 확인할 수 있습니다.
+<img width="193" alt="1" src="https://user-images.githubusercontent.com/62545246/150638628-0d915d2d-e686-4062-86fd-15af257b075f.PNG">
+<h2>상세화면</h2>
+영화를 클릭해서 들어가면 줄거리가 출력됩니다.
+<img width="194" alt="2" src="https://user-images.githubusercontent.com/62545246/150638627-2ef0dd35-8c47-4717-bf41-9730452f0b8e.PNG">
 
+<hr/>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
